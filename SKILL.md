@@ -4,7 +4,8 @@ description: Assess computing architecture decisions and technology investments 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3327
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - accelerated-computing-assessment
 - structure
